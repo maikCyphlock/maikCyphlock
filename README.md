@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **maikCyphlock/maikCyphlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-# My name is Freddy Montes
-### I'm a Frontend Developer from Costa Rica 🇨🇷
+# My name is MAIKOL AGUILAR
+### I'm a Frontend Developer from VENEZUELA
 
 
 ![@Maikol twitter](https://img.shields.io/twitter/follow/maikolaguilar11?style=for-the-badge&color=00acee)
