@@ -51,5 +51,5 @@ My true passion is **Product Development** and I enjoy all aspects from the init
 - [Blog](#) (working on it) ✒️
 
 
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=maikCyphlock&theme=cobalt)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=maikCyphlock)
 
