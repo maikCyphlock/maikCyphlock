@@ -46,7 +46,7 @@ My true passion is **Product Development** and I enjoy all aspects from the init
 ### 📫 You can find me
 - [Twitter](https://twitter.com/maikolaguilar11) 🐦
 - [Instagram](https://instagram.com/maikol6006) 📸
-- [LinkedIn](#) (working on it) 💼
+- [LinkedIn](https://www.linkedin.com/in/maikol-aguilar-4927241b4) (working on it) 💼
 - [Website](#) (working on it) 🌍
 - [Blog](#) (working on it) ✒️
 
