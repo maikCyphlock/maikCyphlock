@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-# My name is MAIKOL AGUILAR
-### I'm a Frontend Developer from VENEZUELA
+# my name is Maikol Aguilar
+### I'm a frontend developer from Venezuela
 
 
 ![@Maikol twitter](https://img.shields.io/twitter/follow/maikolaguilar11?style=for-the-badge&color=00acee)
@@ -24,7 +23,7 @@ Here are some ideas to get you started:
 
 🖥 I'm currently searching for a job as a frontend developers
 
-🐦 I shared content on [Twitter](https://twitter.com/maikolaguilar11) and [Instagram](https://instagram.com/maikol6006) about frontend and dev jobs and life.
+🐦 I shared content on [Twitter](https://twitter.com/maikolaguilar11) and [Instagram](https://instagram.com/maikol6006) about my frontend devs.
 
 
 
@@ -41,7 +40,7 @@ Here are some ideas to get you started:
 
 ### Product Development
 
-My true passion is **Product Development** and I enjoy all aspects from the initial idea and brainstorming, wireframes, mockups, and designs, business right through to the final product.
+My true passion is **Fullstack developer** and I enjoy all aspects from the initial idea and brainstorming, wireframes, mockups, and designs, business right through to the final product.
 
 ### 📫 You can find me
 - [Twitter](https://twitter.com/maikolaguilar11) 🐦
