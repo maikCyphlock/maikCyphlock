@@ -4,7 +4,8 @@
   <h1>👋 Hi I'm maikol aguilar </h1>
 
 </div>
-### I'm a frontend developer from Venezuela
+
+**I'm a frontend developer from Venezuela**
 
 
 ![@Maikol twitter](https://img.shields.io/twitter/follow/maikolaguilar11?style=for-the-badge&color=00acee)
