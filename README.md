@@ -12,14 +12,6 @@
 
 ![@Maikol twitter](https://img.shields.io/twitter/follow/maikolaguilar11?style=for-the-badge&color=00acee)
 
-### Working with
-- React
-- Typescript 
-- NextJS
-- React
-- GraphQL
-- NodeJS
-- Express
 
 ### Product Development
 
@@ -35,3 +27,11 @@ My true passion is **Fullstack developer** and I enjoy all aspects from the init
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=maikCyphlock)
 
+### Working with
+- React
+- Typescript 
+- NextJS
+- React
+- GraphQL
+- NodeJS
+- Express
