@@ -6,13 +6,6 @@
 </div>
 
 
-
-
-
-
-![@Maikol twitter](https://img.shields.io/twitter/follow/maikolaguilar11?style=for-the-badge&color=00acee)
-
-
 ### Product Development
 
 My true passion is **Fullstack developer** and I enjoy all aspects from the initial idea and brainstorming, wireframes, mockups, and designs, business right through to the final product.
