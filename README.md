@@ -13,8 +13,8 @@ As an experienced web developer, my greatest interest lies in the field of Fulls
 ### 📫 You can find me
 - [Twitter](https://twitter.com/maikolaguilar11) 🐦
 - [Instagram](https://instagram.com/maikol6006) 📸
-- [LinkedIn](https://www.linkedin.com/in/maikol-aguilar-4927241b4) (working on it) 💼
-- 
+- [LinkedIn](https://www.linkedin.com/in/maikol-aguilar-4927241b4)  💼
+
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
